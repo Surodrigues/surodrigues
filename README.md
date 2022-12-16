@@ -1,11 +1,11 @@
-Hi 👋 My name is Suely Rodrigues
+👋 Olá, sou Suely Rodrigues
 ================================
 
 Java Developer
 --------------
 
 *   🌍  I'm based in Fortaleza - CE
-*   ✉️  You can contact me at [Surodrigues28@hotmail.com](mailto:Surodrigues28@hotmail.com)
+*   ✉️  You can contact me at [Surodrigues.dev@gmail.com](mailto:Surodrigues.dev@gmail.com)
 
 ### Skills 
 <p align="left">

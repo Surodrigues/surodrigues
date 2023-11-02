@@ -6,6 +6,7 @@ Java Developer
 
 *   🌍  I'm based in Fortaleza - CE
 *   ✉️  You can contact me at [Surodrigues.dev@gmail.com](mailto:Surodrigues.dev@gmail.com)
+*   :computer:
 
 ### Skills 
 <p align="left">

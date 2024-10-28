@@ -32,5 +32,6 @@ Java Developer
 <a href="https://discord.com/users/Surodrigues#5786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/surodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/surodrigues28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>  
+<a href="https://www.credly.com/badges/e68e5c1f-9fcc-44ec-8763-ed008eaec593/public_url" ><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
 
 [![An image of @surodrigues's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surodrigues)](https://holopin.io/@surodrigues)
